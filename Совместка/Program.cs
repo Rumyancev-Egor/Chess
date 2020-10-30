@@ -1,4 +1,4 @@
-﻿using System;
+e﻿using System;
 
 namespace Совместка
 {
@@ -6,7 +6,7 @@ namespace Совместка
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            char[,] board = new char[8,8];
         }
     }
 }
